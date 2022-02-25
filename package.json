@@ -12,9 +12,7 @@
     "start": "node app",
     "test": "jest"
   },
-  "devDependencies": {
-    
-  },
+  "devDependencies": {},
   "dependencies": {
     "express": "^4.16.4"
   }
